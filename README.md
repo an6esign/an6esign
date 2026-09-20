@@ -1,4 +1,4 @@
-![profile cover](55e56c7fede34141b93bdabc42d74518.jpg)
+![profile cover](background.png)
 # 💫 About Me:
 I'm a Data Scientist & ML Engineer with 4 years of experience building ML-powered products and production-ready services.<br><br>🧠 Focused on NLP, LLMs, RAG systems, AI agents, and recommendation systems<br>🔍 Developed search models, text classifiers, churn prediction models, and LLM assistants<br>🚀 Build end-to-end ML solutions: from data analysis and model training to API development and deployment<br>📊 Experienced in product analytics, A/B testing, feature engineering, and model evaluation<br>🛠️ Tech stack: Python, PyTorch, scikit-learn, CatBoost, FastAPI, SQL, PostgreSQL, Docker, MLflow<br>🌱 Currently exploring advanced RAG, LLM evaluation, fine-tuning, and multi-agent systems<br>💡 I enjoy turning complex business problems into practical, scalable ML solutions
 
